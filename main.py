@@ -10,9 +10,7 @@ def parse_args():
     data_paths = []
     for i in range(1, len(sys.argv)):
         if sys.argv[i].endswith(".csv"):
-            path = pathlib.Path(sys.argv[i])
-            if path.is_file():
-                data_paths.append(sys.argv[i])
+            data_paths.append(sys.argv[i])
         if sys.argv[i] == "--report":
             out_file_name = sys.argv[i + 1]
     return out_file_name, data_paths
