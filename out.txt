@@ -1,0 +1,11 @@
+name            department  hours  wage  payout  
+-------------------------------------------------
+Alice Johnson   Marketing   160    50    8000    
+Bob Smith       Design      150    40    6000    
+Carol Williams  Design      170    60    10200   
+Grace Lee       HR          160    45    7200    
+Henry Martin    Marketing   150    35    5250    
+Ivy Clark       HR          158    38    6004    
+Karen White     Sales       165    50    8250    
+Liam Harris     HR          155    42    6510    
+Mia Young       Sales       160    37    5920    
